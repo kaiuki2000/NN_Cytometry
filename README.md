@@ -1,0 +1,2 @@
+# NN_Cytometry
+University project in which we studied how a magnetic flow cytometer could be used for counting the number of magnetically labeled cells in a sample. The giant magnetoresistance (GMR) sensor in the flow cytometer measures the magnetic signal from the cells, which we treated as a time series. We used a neural network to predict the number of cells in a sample based on the signal from the flow cytometer.
